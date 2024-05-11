@@ -1,0 +1,24 @@
+Aula dia 04/05/2024
+
+Lógica / Linguagem de Programação
+
+Soma
+
+EPS - Entrada / Processamento / Saída
+
+Exponenciação - 1² 2² 3³
+
+Tipos de dados:
+
+Int = Inteiros
+Float = Real
+String = Caracteres
+Booleano = Verdadeiro ou Falso
+Dictionary = Dicionário
+Complex Numbers = Números complexos
+
+Numeric : Inteiro, float e Complex Numbers
+
+Set
+
+Tipos de sequência = Strings, listas e Tuplas
