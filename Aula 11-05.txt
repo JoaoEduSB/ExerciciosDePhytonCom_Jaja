@@ -1,0 +1,69 @@
+Aula dia 11/05
+
+Estrutura de decisão simples / composta / encadeada
+
+Simples:
+
+idade = 20
+
+# Nessa situação irá entrar na estrutura, visto que é verdadeiro
+já que idade é igual a 20 e 20 é maior que 18.
+
+Se idade > 18 entao
+pode se inscrever na auto escola
+
+
+Composta:
+
+idade = 17
+
+# Nessa situação não irá entrar na estrutura, visto que como a
+validação é falsa já que 17 é menor que 18, então ele irá entrar
+na parte senão da estrutura. Exibindo o resultado "não pode se
+inscrever na auto escola."
+
+Se idade > 18 entao
+	pode se inscrever na auto escola
+
+senao
+	não pode se inscrever na auto escola
+
+Encadeada:
+
+idade = 14
+
+se idade < 16:
+	não pode votar
+
+senao
+	se idade < 18:
+	voto opcional
+senao
+	voto é obrigatório.
+
+switch case
+
+Operadores matemáticos
+
++ soma
+- subtração
+* multiplicação
+/ divisão
+
+% resto da divisão
+** exponenciação - pow(base, expoente)
+
+----------------------
+
+Operadores Relacionais ou de comparação (6 recursos)
+
+> maior que
+< menor que
+>= maior igual
+<= menor igual
+= = igual
+!= diferente
+
+-------------------------
+
+
