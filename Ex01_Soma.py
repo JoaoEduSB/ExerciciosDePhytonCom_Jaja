@@ -5,6 +5,8 @@
 # com a linguagem de programação Python
 # Exercício de Soma
 
+#1) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a soma dos valores.
+
 print("Vamos criar uma soma")
 
 valorA = int(input("Digite o primeiro valor: "))
