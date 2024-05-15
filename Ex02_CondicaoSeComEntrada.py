@@ -5,6 +5,8 @@
 # com a linguagem de programação Python
 # Exercício de comparação com processamento pela condição considerando a entrada 
 
+#2) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a subtração dos valores
+
 print("Vamos exibir uma mensagem dependendo do valor digitado")
 
 valorA = int(input("Digite o primeiro valor: "))
