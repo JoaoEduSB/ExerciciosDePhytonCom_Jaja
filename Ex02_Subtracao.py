@@ -5,7 +5,7 @@
 # com a linguagem de programação Python
 # Exercício de Subtração
 
-#3) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a multiplicação dos valores.
+#2) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a subtração dos valores.
 
 print("Vamos criar um programa que efetua uma subtração")
 
