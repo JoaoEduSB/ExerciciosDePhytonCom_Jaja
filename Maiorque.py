@@ -5,8 +5,6 @@
 # com a linguagem de programação Python
 # Exercício que trás o maior valor
 
-#3) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a multiplicação dos valores.
-
 print("Vamos exibir o maior valores entre os 3 digitados")
 
 a = int(input("Digite o primeiro valor: "))
